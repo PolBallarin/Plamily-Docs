@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Bienvenido a Plamily](README.md)
+* [Guía de Plamily](plamily-docs/SUMMARY.md)
+* [Pantallas](pantallas/README.md)
+  * [Home](plamily-docs/pantallas/home.md)
+  * [Agenda](plamily-docs/pantallas/agenda.md)
+  * [Calendario](plamily-docs/pantallas/calendario.md)
+  * [Medicamentos](plamily-docs/pantallas/medicamentos.md)
+* [Dashboard](dashboard/README.md)
+  * [Panel de Control (Dashboard)](plamily-docs/dashboard/panel.md)
+  * [Datos Propios](plamily-docs/dashboard/datos-propios.md)
+  * [Datos del Usuario](plamily-docs/dashboard/datos-usuario.md)
+  * [Residencias](plamily-docs/dashboard/residencias.md)
+  * [Gestión de Permisos](plamily-docs/dashboard/permisos.md)
+  * [Configuración de Notificaciones](plamily-docs/dashboard/notificaciones.md)

@@ -2,16 +2,16 @@
 
 Edita tu información personal de cuenta.
 
-![Datos Propios](../assets/10_datos_propios.png)
+![Datos Propios](../../.gitbook/assets/10_datos_propios.png)
 
 ## Campos disponibles
 
-- **Nombre completo**: Tu nombre.
-- **Email**: Correo electrónico (bloqueado, solo editable desde Ayuda).
-- **Edad**: Tu edad.
-- **Casa que gestiona**: Hogar principal asignado.
-- **DNI**: Documento de identidad (opcional).
-- **Teléfono**: Número de contacto.
+* **Nombre completo**: Tu nombre.
+* **Email**: Correo electrónico (bloqueado, solo editable desde Ayuda).
+* **Edad**: Tu edad.
+* **Casa que gestiona**: Hogar principal asignado.
+* **DNI**: Documento de identidad (opcional).
+* **Teléfono**: Número de contacto.
 
 ## Guardar cambios
 
